@@ -1,0 +1,287 @@
+canonical_identifier: bkk:krp/KR3ed145/v1
+canonical_location: https://kanripo.org/bkk/KR3ed145/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傅氏驗方秘方
+  identifiers:
+    krp: KR3ed145
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed145.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed145_000.yaml, hash: 'sha256:cbee98e4cf55d43dae41a647e5657c0266b7ac18a147c6eda68c76e2c61625ef'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:8d0a15bc328d04ced4421220e3d4617d9f106ab126ff4aaddff8563f9a064004'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 3209
+  label: 內科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d2
+    span:
+    - body
+    - 2
+    - 432
+  label: 健脾丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d3
+    span:
+    - body
+    - 432
+    - 1257
+  label: 脾腎兩助丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d4
+    span:
+    - body
+    - 1257
+    - 1357
+  label: 和合二仙丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d5
+    span:
+    - body
+    - 1357
+    - 1477
+  label: 和合丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d6
+    span:
+    - body
+    - 1477
+    - 1948
+  label: 二仙丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d7
+    span:
+    - body
+    - 1948
+    - 2459
+  label: 消利濕氣腫脹秘方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d8
+    span:
+    - body
+    - 2459
+    - 2774
+  label: 口眼歪斜中風痰症秘方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d2d9
+    span:
+    - body
+    - 2774
+    - 3209
+  label: 噎膈反胃方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3.h1s1
+    span:
+    - body
+    - 3209
+    - 5244
+  label: 婦科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d2
+    span:
+    - body
+    - 3211
+    - 3278
+  label: 臨產產後神效經驗方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d3
+    span:
+    - body
+    - 3278
+    - 3577
+  label: 臨產經驗要方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d4
+    span:
+    - body
+    - 3577
+    - 3909
+  label: 產後極效要方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d5
+    span:
+    - body
+    - 3909
+    - 4268
+  label: 血暈止述散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d6
+    span:
+    - body
+    - 4268
+    - 4668
+  label: 癸日丸和烏雞丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d7
+    span:
+    - body
+    - 4668
+    - 4885
+  label: 乳癰驗方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d3d8
+    span:
+    - body
+    - 4885
+    - 5244
+  label: 白帶驗方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4.h1s1
+    span:
+    - body
+    - 5244
+    - 7570
+  label: 外科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d2
+    span:
+    - body
+    - 5246
+    - 5585
+  label: 頭上浸淫瘡膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d3
+    span:
+    - body
+    - 5585
+    - 5807
+  label: 濟生館特效藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d4
+    span:
+    - body
+    - 5807
+    - 6278
+  label: 濟生膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d5
+    span:
+    - body
+    - 6278
+    - 6611
+  label: 拔毒膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d6
+    span:
+    - body
+    - 6611
+    - 6890
+  label: 九龍膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d7
+    span:
+    - body
+    - 6890
+    - 7168
+  label: 如神丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d8
+    span:
+    - body
+    - 7168
+    - 7374
+  label: 瘙癢驗方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed145_jc_000-d4d9
+    span:
+    - body
+    - 7374
+    - 7570
+  label: 燙火傷驗方
+  type: section
+  level: 2
+hash: sha256:e84cbeff841372c97ca97ad0466be2b17609f1799b1795577b7b85a04d466f77
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
