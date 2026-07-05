@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed145_000.yaml, hash: 'sha256:cbee98e4cf55d43dae41a647e5657c0266b7ac18a147c6eda68c76e2c61625ef'}
+  - {seq: 0, filename: KR3ed145_000.yaml, hash: 'sha256:8e1d7652531a0e0d492641daacfdd79dc44a1821f33e028cc8b4ea5ce0f2c65e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:8d0a15bc328d04ced4421220e3d4617d9f106ab126ff4aaddff8563f9a064004'}
+  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:ce29dc851feac61d8ce263ffd004a23b8f64e710657dcdac2af0f3d576ec7835'}
 table_of_contents:
 - ref:
     seq: 0
@@ -281,7 +281,4 @@ table_of_contents:
   label: 燙火傷驗方
   type: section
   level: 2
-hash: sha256:e84cbeff841372c97ca97ad0466be2b17609f1799b1795577b7b85a04d466f77
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:81f6b5d68c741f953d7c1dbbc3a5c0567c7ea6466dba8a26e10954992a843c7c
