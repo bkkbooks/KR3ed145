@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed145/v1
 canonical_location: https://kanripo.org/bkk/KR3ed145/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傅氏驗方秘方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed145_000.yaml, hash: 'sha256:8e1d7652531a0e0d492641daacfdd79dc44a1821f33e028cc8b4ea5ce0f2c65e'}
+  - {seq: 0, filename: KR3ed145_000.yaml, hash: 'sha256:2509b3d418264bce10b6e0660f16b8eb757757e5d6864cdb050538a6cab7d07e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:ce29dc851feac61d8ce263ffd004a23b8f64e710657dcdac2af0f3d576ec7835'}
+  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:ec0538407cf060abf6387de4cef958318ba2accf7041f88281ec897a1f6b775c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -281,4 +281,7 @@ table_of_contents:
   label: 燙火傷驗方
   type: section
   level: 2
-hash: sha256:81f6b5d68c741f953d7c1dbbc3a5c0567c7ea6466dba8a26e10954992a843c7c
+hash: sha256:43157dc3c85820109268f6ceac76ad826b58659d1f468895ca5e703a7635ad36
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
