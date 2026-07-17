@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed145_000.yaml, hash: 'sha256:2509b3d418264bce10b6e0660f16b8eb757757e5d6864cdb050538a6cab7d07e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:ec0538407cf060abf6387de4cef958318ba2accf7041f88281ec897a1f6b775c'}
+  - {seq: 0, role: markers, filename: assets/KR3ed145_000.markers.yaml, hash: 'sha256:78512d532c96acc55e9b9740a58b5af42ac845db3d35044ac38c49c8703d7ede'}
 table_of_contents:
 - ref:
     seq: 0
@@ -281,7 +281,7 @@ table_of_contents:
   label: 燙火傷驗方
   type: section
   level: 2
-hash: sha256:43157dc3c85820109268f6ceac76ad826b58659d1f468895ca5e703a7635ad36
+hash: sha256:dd515ef058ac2fbd22eb703e0cd2edbde35728a014fafe2956a8359477fe4466
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
